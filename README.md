@@ -43,3 +43,18 @@ Ensure the engineered prompt includes:
 2. Tone Requirements: Apologetic, serious, objective, and conflict-de-escalating.
 3. Action Plan: Clear instructions to offer immediate remedies, compensation/refund policy options, or escalation steps.
 4. Output Format: Professional response with numbered resolution steps.
+🚀 How to Run / Import
+Clone or download this repository.
+
+Open your n8n canvas.
+
+Import the workflow.json file into n8n.
+
+Add your Google Gemini API Key in the credentials setup for Google Gemini Chat Model.
+
+Execute the workflow and test via the built-in Chat window!
+
+✅ Execution Status
+Status: Tested & Fully Functional
+
+Execution Log: All nodes execute with zero errors (1 Item output successfully generated).
