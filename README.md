@@ -5,14 +5,6 @@ A structured, automated AI workflow built in **n8n** that acts as a domain-speci
 
 ---
 
-## 📌 Project Information
-
-- **Course:** Agentic AI
-- **Assignment:** N8N Prompt Engineer Workflow
-- **Submitted To:** Miss Muskan Atiq
-- **Submitted By:** Fatima Hussain
-- **Student ID:** AGI-918851
-- **Submission Date:** November 2, 2026
 
 ---
 
